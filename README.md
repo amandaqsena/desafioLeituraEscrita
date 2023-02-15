@@ -1,7 +1,6 @@
 # Desafio
 
-Suponha que você tenha um arquivo chamado "input.txt" que contém uma lista 
-de nomes e idades, um por linha, no seguinte formato:
+Suponha que você tenha um arquivo chamado "input.txt" que contém uma lista de nomes e idades, um por linha, no seguinte formato:
 
 João,20 \
 Maria,26 \
