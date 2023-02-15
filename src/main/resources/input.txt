@@ -1,0 +1,6 @@
+João,20
+Maria,26
+Amanda,26
+Ana,18
+Pedro,21
+Italo,18

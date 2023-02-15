@@ -1,0 +1,6 @@
+Idade: 26 -> [Maria,Amanda]
+Idade: 18 -> [Ana,Italo]
+Idade: 20 -> [João]
+Idade: 21 -> [Pedro]
+
+Média de idade é 21.5
